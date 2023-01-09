@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
-<h3 align="center">I'm a Computer Programming student at Seneca college</h3>
+<h3 align="center">I'm a recent Computer Programming diploma graduate from Seneca college</h3>
 
+- Currently working on a project using MERN stack
 - 📫 How to reach me **pratham.jani123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
